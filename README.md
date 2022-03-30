@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is a flutter project based on the sustainable goal 14 life below water . The aim of this project is to that people should aware of sea animals they know the measures we take to protect the ocean from pollution and people should know about the some of  beautiful creatures are there in the ocean ....
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
